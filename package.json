@@ -1,0 +1,25 @@
+{
+  "name": "bot-now",
+  "version": "1.0.0",
+  "description": "bot deployed to now",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "micro": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerze/bot-now-slack.git"
+  },
+  "author": "Gus Suarez <gus@mythril.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerze/bot-now-slack/issues"
+  },
+  "homepage": "https://github.com/aerze/bot-now-slack#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}

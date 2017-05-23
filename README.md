@@ -1,2 +1,2 @@
-# bot-now-slack
-slack bot deployed to now
+# bot-now
+bot deployed to now
